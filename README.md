@@ -25,7 +25,7 @@ Projeto desenvolvido para praticar Docker Compose, Apache, PHP e PostgreSQL.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/RuanSpinelli/dockerized-user-crud
 ```
 
 Entre na pasta:
